@@ -1,3 +1,6 @@
+#problem statement to be solved
+https://github.com/goeuro/dev-test
+
 # go-euro-test
 The project is divided into 2 parts
 
